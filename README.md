@@ -1,25 +1,25 @@
 # global_superstore_DS_project
-Project 1 – General EDA:
+-> Project 1 – General EDA:
 
-Cleaned dataset by removing duplicates, handling missing values, and addressing outliers.
+1. Cleaned dataset by removing duplicates, handling missing values, and addressing outliers.
 
-Visualized sales and profit distributions.
+2. Visualized sales and profit distributions.
 
-Detected skewness and high-value outliers.
+3. Detected skewness and high-value outliers.
 
-Found a strong positive correlation between Sales and Profit.
+4. Found a strong positive correlation between Sales and Profit.
 
 
-Project 2 – Sales Performance Analysis:
+-> Project 2 – Sales Performance Analysis:
 
-Analyzed time trends in sales: found seasonal peaks.
+1. Analyzed time trends in sales: found seasonal peaks.
 
-Discovered negative correlation between discount and profit.
+2. Discovered negative correlation between discount and profit.
 
-Compared sales performance across regions and categories.
+3. Compared sales performance across regions and categories.
 
-Built a Linear Regression model to predict sales:
+4.Built a Linear Regression model to predict sales:
 
-Initially used only Profit and Discount.
+--Initially used only Profit and Discount.
 
-Later enhanced with more features and preprocessing, improving R² score significantly.
+--Later enhanced with more features and preprocessing, improving R² score significantly.
